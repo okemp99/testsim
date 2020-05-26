@@ -1,0 +1,22 @@
+Package: testsim
+Type: Package
+Title: Simulates Multiple Choice and Matching Test Questions
+Imports:
+    pracma (>= 2.2.9)
+Version: 0.1.1.9000
+Date: 2020-04-28
+Author: Oliver Kemp
+Maintainer: Oliver Kemp <ok1g17@soton.ac.uk>
+Description: Simulation of basic exam questions. Multiple choice
+    tests can be simulated to find the expected score and compare
+    with the corresponding binomial distribution,and tests 
+    containing questions with different numbers of options
+    can also be considered.There are also functions for fully
+    customisable multiple choice and matching questions, allowing
+    for multiple correct answers, negative points and customisable
+    points for each correct option. An entire test of such
+    questions can be constructed using a list and then simulated.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.0
