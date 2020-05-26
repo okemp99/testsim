@@ -3,7 +3,7 @@ Type: Package
 Title: Simulates Multiple Choice and Matching Test Questions
 Imports:
     pracma (>= 2.2.9)
-Version: 0.1.1.9000
+Version: 0.1.1
 Date: 2020-04-28
 Author: Oliver Kemp
 Maintainer: Oliver Kemp <ok1g17@soton.ac.uk>
