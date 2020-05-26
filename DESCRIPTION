@@ -20,3 +20,5 @@ License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.1.0
+URL: https://github.com/okemp99/testsim
+BugReports: https://github.com/okemp99/testsim/issues
